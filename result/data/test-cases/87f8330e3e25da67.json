@@ -1,0 +1,175 @@
+{
+  "uid" : "87f8330e3e25da67",
+  "name" : "创建角色功能异常（字段规则校验）",
+  "fullName" : "Scripts.test_pri.Test_pri#test_pri_cte04",
+  "historyId" : "f12e7aaedbf8a8c8c96ae5170d1b00a3",
+  "time" : {
+    "start" : 1599816630509,
+    "stop" : 1599816640400,
+    "duration" : 9891
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1599816590492,
+      "stop" : 1599816602132,
+      "duration" : 11640
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e62a14a7fe9f838a",
+      "name" : "截屏",
+      "source" : "e62a14a7fe9f838a.attach",
+      "type" : "image/png",
+      "size" : 140023
+    }, {
+      "uid" : "a1d61c3e7521ae8f",
+      "name" : "测试步骤",
+      "source" : "a1d61c3e7521ae8f.attach",
+      "type" : "text/plain",
+      "size" : 347
+    }, {
+      "uid" : "f60fcda2cde9832d",
+      "name" : "测试数据",
+      "source" : "f60fcda2cde9832d.attach",
+      "type" : "text/plain",
+      "size" : 74
+    }, {
+      "uid" : "219c696e728c786",
+      "name" : "预期结果",
+      "source" : "219c696e728c786.attach",
+      "type" : "text/plain",
+      "size" : 95
+    }, {
+      "uid" : "3a04c6de671640f3",
+      "name" : "log",
+      "source" : "3a04c6de671640f3.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "2f8dd5b0a292dda3",
+      "name" : "stdout",
+      "source" : "2f8dd5b0a292dda3.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "39f9547e1ecd71bd",
+      "name" : "stderr",
+      "source" : "39f9547e1ecd71bd.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1599816713263,
+      "stop" : 1599816713264,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "权限管理模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_pri"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_pri"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HVAEB5L"
+  }, {
+    "name" : "thread",
+    "value" : "19484-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_pri"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "云效地址",
+    "url" : "http://yunxiao.cloudpm.aliyun.com/my",
+    "type" : "issue"
+  }, {
+    "name" : "用例地址",
+    "url" : "https://dayu.work/alita/functional?businessId=294954&projectId=537",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4c4d9df991591a9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599814331219,
+        "stop" : 1599814340794,
+        "duration" : 9575
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "5021b0c4aff35709",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599814331219,
+          "stop" : 1599814340794,
+          "duration" : 9575
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "87f8330e3e25da67.json",
+  "parameterValues" : [ ]
+}

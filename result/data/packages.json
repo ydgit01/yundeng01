@@ -1,0 +1,189 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Scripts.test_pri",
+    "children" : [ {
+      "name" : "创建角色功能正常，创建角色页面验证",
+      "uid" : "976b0e910f806084",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816602136,
+        "stop" : 1599816611342,
+        "duration" : 9206
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "创建角色功能异常（唯一性校验）",
+      "uid" : "c103b15bfa3974c8",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816611346,
+        "stop" : 1599816620977,
+        "duration" : 9631
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "创建角色功能异常（必填性检验）",
+      "uid" : "e1b540be504fed2a",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816620982,
+        "stop" : 1599816630498,
+        "duration" : 9516
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "创建角色功能异常（字段规则校验）",
+      "uid" : "87f8330e3e25da67",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816630509,
+        "stop" : 1599816640400,
+        "duration" : 9891
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "编辑角色功能，编辑角色页面验证",
+      "uid" : "bbe06bce0c3f719b",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816640411,
+        "stop" : 1599816646142,
+        "duration" : 5731
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "角色添加人员功能，添加人员页面校验",
+      "uid" : "586114f01e962f8d",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816646145,
+        "stop" : 1599816658055,
+        "duration" : 11910
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "功能角色页面页面点击角色名称",
+      "uid" : "1033c24c75a626bc",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816658059,
+        "stop" : 1599816662624,
+        "duration" : 4565
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "进入成员列表页，验证搜索和重置功能",
+      "uid" : "8f0e9721b6cf681a",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816662628,
+        "stop" : 1599816669696,
+        "duration" : 7068
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "进入成员列表页，验证批量移除",
+      "uid" : "5a20a034f5da1fc3",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816669709,
+        "stop" : 1599816677352,
+        "duration" : 7643
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "移除人员操作验证",
+      "uid" : "36a962d7f3305916",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816677356,
+        "stop" : 1599816685135,
+        "duration" : 7779
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "验证搜索功能和重置功能",
+      "uid" : "d4548f01f9d79c0",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816685139,
+        "stop" : 1599816690807,
+        "duration" : 5668
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "删除角色（存在用户的情况）功能",
+      "uid" : "b71624bb1b8a7b2c",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816690811,
+        "stop" : 1599816695343,
+        "duration" : 4532
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "删除角色（不存在用户的情况）功能",
+      "uid" : "45168ad17c8cc778",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816695348,
+        "stop" : 1599816699891,
+        "duration" : 4543
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "批量删除角色（存在用户的情况）功能",
+      "uid" : "7f118adba1fb5be9",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816699898,
+        "stop" : 1599816705457,
+        "duration" : 5559
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "移除admin账号",
+      "uid" : "62d59db0c2791d20",
+      "parentUid" : "e3356bbde38b8f4f725d7c5c5024de50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599816705461,
+        "stop" : 1599816713263,
+        "duration" : 7802
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Scripts.test_pri"
+  } ]
+}

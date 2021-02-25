@@ -1,0 +1,169 @@
+{
+  "uid" : "586114f01e962f8d",
+  "name" : "角色添加人员功能，添加人员页面校验",
+  "fullName" : "Scripts.test_pri.Test_pri#test_add_people",
+  "historyId" : "e992efafd641cefa5eccc73e7a45adb9",
+  "time" : {
+    "start" : 1599816646145,
+    "stop" : 1599816658055,
+    "duration" : 11910
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1599816590492,
+      "stop" : 1599816602132,
+      "duration" : 11640
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "985398bfd055c67b",
+      "name" : "截屏",
+      "source" : "985398bfd055c67b.attach",
+      "type" : "image/png",
+      "size" : 146516
+    }, {
+      "uid" : "146428bac2c850b7",
+      "name" : "测试步骤",
+      "source" : "146428bac2c850b7.attach",
+      "type" : "text/plain",
+      "size" : 607
+    }, {
+      "uid" : "b7c87f1746069239",
+      "name" : "预期结果",
+      "source" : "b7c87f1746069239.attach",
+      "type" : "text/plain",
+      "size" : 523
+    }, {
+      "uid" : "62aa224cd7d9a6d4",
+      "name" : "log",
+      "source" : "62aa224cd7d9a6d4.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "63f1e5d366692f45",
+      "name" : "stdout",
+      "source" : "63f1e5d366692f45.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "8684d5c9ac88872c",
+      "name" : "stderr",
+      "source" : "8684d5c9ac88872c.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1599816713263,
+      "stop" : 1599816713264,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "权限管理模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_pri"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_pri"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HVAEB5L"
+  }, {
+    "name" : "thread",
+    "value" : "19484-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_pri"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "云效地址",
+    "url" : "http://yunxiao.cloudpm.aliyun.com/my",
+    "type" : "issue"
+  }, {
+    "name" : "用例地址",
+    "url" : "https://dayu.work/alita/functional?businessId=294954&projectId=537",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd0b917ffb70b00d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599814346507,
+        "stop" : 1599814358445,
+        "duration" : 11938
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "498e3cb15ffad78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599814346507,
+          "stop" : 1599814358445,
+          "duration" : 11938
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "586114f01e962f8d.json",
+  "parameterValues" : [ ]
+}

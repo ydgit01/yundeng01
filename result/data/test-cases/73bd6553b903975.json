@@ -1,0 +1,146 @@
+{
+  "uid" : "73bd6553b903975",
+  "name" : "删除角色（存在用户的情况）功能",
+  "fullName" : "Scripts.test_pri.Test_pri#test_delete_role02",
+  "historyId" : "b3452989fd6955465f4605f7eaa5f939",
+  "time" : {
+    "start" : 1599814390093,
+    "stop" : 1599814394628,
+    "duration" : 4535
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1599814289991,
+      "stop" : 1599814303111,
+      "duration" : 13120
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e94b4215e3445563",
+      "name" : "截屏",
+      "source" : "e94b4215e3445563.attach",
+      "type" : "image/png",
+      "size" : 146348
+    }, {
+      "uid" : "70a5dc6acae2ba70",
+      "name" : "测试步骤",
+      "source" : "70a5dc6acae2ba70.attach",
+      "type" : "text/plain",
+      "size" : 253
+    }, {
+      "uid" : "f9b1bfac863ab46e",
+      "name" : "测试数据",
+      "source" : "f9b1bfac863ab46e.attach",
+      "type" : "application/octet-stream",
+      "size" : 0
+    }, {
+      "uid" : "6fb2012f6e352633",
+      "name" : "预期结果",
+      "source" : "6fb2012f6e352633.attach",
+      "type" : "text/plain",
+      "size" : 104
+    }, {
+      "uid" : "3f10d31e283a1cae",
+      "name" : "log",
+      "source" : "3f10d31e283a1cae.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "6e63e01bc497b1b4",
+      "name" : "stdout",
+      "source" : "6e63e01bc497b1b4.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "824313775ec24a02",
+      "name" : "stderr",
+      "source" : "824313775ec24a02.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1599814412549,
+      "stop" : 1599814412549,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "权限管理模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_pri"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_pri"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-HVAEB5L"
+  }, {
+    "name" : "thread",
+    "value" : "3688-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Scripts.test_pri"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "云效地址",
+    "url" : "http://yunxiao.cloudpm.aliyun.com/my",
+    "type" : "issue"
+  }, {
+    "name" : "用例地址",
+    "url" : "https://dayu.work/alita/functional?businessId=294954&projectId=537",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73bd6553b903975.json",
+  "parameterValues" : [ ]
+}
