@@ -1,4 +1,4 @@
-import Connect_mysql
+from Data.connect_mysql import Connect_mysql
 
 class Mysql_data:
     def __init__(self):

@@ -24,6 +24,8 @@ class Test_com:
 
 
     @pytest.mark.run(order=41)
+    @pytest.mark.repeat(3)
+    @pytest.mark.skip(reason="暂时不执行")
     @allure.title(Execl_data('组织与单位').case_data(10,1))
     @allure.issue('http://yunxiao.cloudpm.aliyun.com/my', '云效地址')
     @allure.testcase('https://dayu.work/alita/functional?businessId=294954&projectId=537', '用例地址')
